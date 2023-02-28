@@ -6,3 +6,5 @@ Para executar esse projeto no seu computador, por favor digite:
 ```
 node app.js
 ```
+
+:)
